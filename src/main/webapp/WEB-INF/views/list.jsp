@@ -16,6 +16,12 @@
 				<th>아이디</th>
 				<th>학생명</th>
 				<th>학급명</th>
+					<th>아이디</th>
+				<th>학생명123</th>
+				<th>학급명123</th>
+					<th>아이디</th>
+				<th>학생명</th>
+				<th>학급명</th>
 			</tr>  
 		<c:if test="${empty listStudent}">
 			<tr>
